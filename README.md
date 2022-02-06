@@ -6,4 +6,4 @@ Philips devices are not just using you speecified DNS-Server. They are also tryi
 
 ## OPNsense
 
-Place the file 'philips.rules' in '/usr/local/etc/suricata/rules/' and reload suricata / Intrusion Detection
+See Subfolder OPNsense
